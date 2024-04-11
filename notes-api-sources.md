@@ -10,6 +10,12 @@ https://excalidraw.com/#room=56a64336049f74b2fd07,BzAlSgxoZXjLVcTf4UQrNg
 
 # API Sources:
 
+## Plant Identifier API
+
+User inputs picture||plant name.  Doctor GPT provides some diagnosis
+
+https://web.plant.id/plant-identification-api/
+
 ## OPEN AI Vision:
 
 https://platform.openai.com/docs/guides/vision
@@ -30,3 +36,11 @@ https://app.asana.com/0/1207042493920259/board
 # OLD APPS 
 
 https://apps.apple.com/us/app/plantai-plant-identifier/id6475875036?gclid=Cj0KCQjwztOwBhD7ARIsAPDKnkBfjyvIkHo80dMsaws9d7qazecku9w_6Frukn_kHMZUdyDauPCN60oaAkEaEALw_wcB
+
+
+# MISC
+
+Branching;
+
+AL/backend-setup
+
